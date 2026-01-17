@@ -25,7 +25,7 @@ src/ ├── components/ ├── screens/ ├── images/ ├── contex
 
 ## 📸 Screenshots
 [Home Page](screenshots/home.png)
-[Products Page](screenshots/products.png)
+[Login](screenshots/login.png)
 [Dashboard](screenshots/dashboard.png)
 
 ## 📌 Purpose
