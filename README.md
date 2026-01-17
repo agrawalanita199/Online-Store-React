@@ -24,7 +24,9 @@ src/ ├── components/ ├── screens/ ├── images/ ├── contex
 
 
 ## 📸 Screenshots
-
+[Home Page](screenshots/home.png)
+[Products Page](screenshots/products.png)
+[Dashboard](screenshots/dashboard.png)
 
 ## 📌 Purpose
 This project was developed to strengthen frontend development skills using React and understand real-world application structure and routing.
